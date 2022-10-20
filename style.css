@@ -58,6 +58,9 @@ header {
   font-size: 15px;
   opacity: 0.9;
 }
+.not-suppoerted{
+  display: none;
+}
 .select {
   margin-right: 2px;
   outline: none;
